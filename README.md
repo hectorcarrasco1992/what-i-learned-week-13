@@ -7,4 +7,10 @@
 
 # Componentize
 
-* used boot strap to help design the to do app
+* used boot strap to help design the to do app.
+
+![pic-of-project](Screen&#32;Shot&#32;2019-12-02&#32;at&#32;10.54.59&#32;AM.png)
+
+# ToDo 2
+
+a group project which expanded on the todo list
